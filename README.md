@@ -16,8 +16,8 @@ A little bit about me:
   <i>Connet with me!</i>
 
   <p align="center">
-    <a href="https://linkedin.com/in/sumanthvrao/" alt="Linkedin"><img src="./icons/linkedin-fill.svg"></a>
-    <a href="mailto:sumanthvrao@gmail.com" alt="Mail"><img src="./icons/mail-fill.svg"></a>
-    <a href="https://sumanthvrao.github.io" alt="My site"><img src="./icons/external-link-line.svg"></a>
+    <a href="https://linkedin.com/in/sumanthvrao/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sumanthvrao/sumanthvrao/master/icons/linkedin-fill.svg"></a>
+    <a href="mailto:sumanthvrao@gmail.com" alt="Mail"><img src="https://raw.githubusercontent.com/sumanthvrao/sumanthvrao/master/icons/mail-fill.svg"></a>
+    <a href="https://sumanthvrao.github.io" alt="My site"><img src="https://raw.githubusercontent.com/sumanthvrao/sumanthvrao/master/icons/external-link-line.svg"></a>
   </p>
 </p>
