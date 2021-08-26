@@ -2,7 +2,7 @@
 
 A little bit about me:
 
-- I work as a Software Engineer at Citrix.
+- I am an incoming Grad student at UC San Diego, pursuing a Master's degree in Computer Science. Previously, I worked as a Software Engineer with Citrix for more than a year.
 - I love contributing to open source projects and learning new concepts.
 - I'm also an avid trekker! ⛰️
 
