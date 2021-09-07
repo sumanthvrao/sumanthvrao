@@ -2,7 +2,7 @@
 
 A little bit about me:
 
-I am an incoming Grad student at UC San Diego, pursuing a Master's degree in Computer Science. Previously, I worked as a Software Engineer with Citrix for more than a year. I love contributing to open source projects and learning new concepts. I'm also an avid trekker! ⛰️
+I am a CS Gradudate Student at UC San Diego pursuing a Master's degree in Computer Science. I love contributing to open source projects during my free time and learning new concepts. I'm also an avid trekker/hiker! ⛰️
 
 <p align="center">
   <img alt="Sumanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumanthvrao&count_private=true&show_icons=true&hide_border=true" />
