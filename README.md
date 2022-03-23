@@ -1,6 +1,6 @@
-### Hi, I'm Sumanth 👋.
+### Hi, I'm Sumanth 👋
 
-Presently, I'm pursuing a Master's degree in Computer Science at UC San Diego. Previously, I did my undergraduate studies in CS from PES Unversity, India.
+I'm pursuing a Master's degree in Computer Science at UC San Diego. Head over to https://sumanthvrao.github.io/ to know more!
 
 <!-- <p align="center">
   <img alt="Sumanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumanthvrao&count_private=true&show_icons=true&hide_border=true" />
