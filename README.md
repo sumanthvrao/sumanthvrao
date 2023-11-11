@@ -1,6 +1,6 @@
 ### Hi, I'm Sumanth 👋
 
-I'm pursuing a Master's degree in Computer Science at UC San Diego. Head over to https://sumanthvrao.github.io/ to know more!
+I am a CS PhD student at UC San Diego. I research computer security and privacy from an empirical lens. Head over to https://sumanthvrao.github.io/ to know more!
 
 <!-- <p align="center">
   <img alt="Sumanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumanthvrao&count_private=true&show_icons=true&hide_border=true" />
